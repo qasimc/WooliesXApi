@@ -1,0 +1,9 @@
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\bin\Debug\netcoreapp3.1\WooliesX.Domain.deps.json
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\bin\Debug\netcoreapp3.1\WooliesX.Domain.dll
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\bin\Debug\netcoreapp3.1\WooliesX.Domain.pdb
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.csprojAssemblyReference.cache
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.AssemblyInfoInputs.cache
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.AssemblyInfo.cs
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.dll
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.pdb
+C:\Users\qasimchaudhry\source\repos\WooliesX\WooliesX.Domain\obj\Debug\netcoreapp3.1\WooliesX.Domain.csproj.CoreCompileInputs.cache

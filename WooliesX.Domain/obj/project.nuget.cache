@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q2IC5mU1pqPTl5gc0TOEV2xCAMEykzMDvEeNInnXvHY1KN6Dj5rapcp5h5stB+Nlft8iGG/7Xs40h28EO7kdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qasimchaudhry\\source\\repos\\WooliesX\\WooliesX.Domain\\WooliesX.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qasimchaudhry\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
